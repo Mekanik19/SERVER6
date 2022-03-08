@@ -1,0 +1,5 @@
+yapı:
+  liman işçisi:
+      işçi: Docker dosyası
+çalıştırma:
+   işçi: npm start
